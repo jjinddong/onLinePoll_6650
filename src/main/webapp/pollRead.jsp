@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>온라인 투표</title>
+<title>프리미어리그 온라인 투표</title>
 <link rel="icon" href="./favicon-16x16.png">
 </head>
 <body>
